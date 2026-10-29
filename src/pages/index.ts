@@ -1,0 +1,7 @@
+export { WelcomePage } from './Welcome'
+export { DashboardPage } from './Dashboard'
+export { TeachersPage } from './Teachers'
+export { StudentsPage } from './Students'
+export { AttendancePage } from './Attendance'
+export { ReportsPage } from './Reports'
+export { SettingsPage } from './Settings'
